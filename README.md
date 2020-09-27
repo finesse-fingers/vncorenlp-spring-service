@@ -1,6 +1,6 @@
 # Vn Core NLP Spring boot service
 
-Aim of this project is to remove bottlenecks with multithreading related to python wrapper.
+Aim of this project is to remove bottlenecks with multithreading related to python wrapper. See https://github.com/vncorenlp/VnCoreNLP
 
 ## Usage
 
